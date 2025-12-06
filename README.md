@@ -52,8 +52,7 @@ resultado/filmes_processados.csv
 1. Instale o pandas:
 pip install pandas
 
-2. Navegue até o diretório:
-cd C:\Users\Rhayanne Matos\Desktop\Projetos\etl-filmes
+2. Navegue até a pasta etl-filmes
 
 3. Execute:
 python etl.py
