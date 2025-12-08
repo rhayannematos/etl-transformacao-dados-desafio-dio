@@ -4,12 +4,15 @@ Este projeto realiza um processo completo de ETL (Extract, Transform, Load) util
 ---
 
 ## Estrutura do Projeto
-etl-filmes/
+
+```
+📂 etl-filmes/
 ├── dados_filmes.csv
 ├── etl.py
 ├── resultado/
 │   └── filmes_processados.csv
 └── README.md
+```
 
 ---
 
