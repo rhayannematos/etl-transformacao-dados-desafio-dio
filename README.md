@@ -25,8 +25,10 @@ Este projeto implementa um pipeline completo de **ETL (Extract, Transform, Load)
 ├── logs/
 │   └── etl.log                # Log de execução do ETL
 │
-├── requirements.txt
-└── README.md
+├── .gitignore                   # Arquivos ignorados pelo Git
+├── requirements.txt             # Dependências do projeto
+├── README.md                    # Documentação principal
+└── como_rodar.txt    
 ```
 
 ---
