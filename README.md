@@ -7,7 +7,7 @@ Este projeto implementa um pipeline completo de **ETL (Extract, Transform, Load)
 ## Estrutura do Projeto
 
 ```
-📂 etl-filmes-api/
+📂 etl-filmes/
 ├── api/
 │   ├── api_filmes.py          # API simulada com FastAPI
 │   └── dados_api.json         # Base de dados da API
