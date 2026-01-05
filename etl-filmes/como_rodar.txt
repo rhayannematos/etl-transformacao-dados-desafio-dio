@@ -1,0 +1,5 @@
+Iniciar API
+uvicorn api_filmes:app --reload
+
+Rodar ETL
+python etl.py
